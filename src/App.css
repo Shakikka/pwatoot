@@ -13,6 +13,14 @@
   }
 }
 
+.mr-auto a {
+  text-decoration: none;
+  color: white;
+}
+.mr-auto a:hover {
+  color: white;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
